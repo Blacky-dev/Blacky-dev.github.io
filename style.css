@@ -6,6 +6,7 @@ body
 {
 	background-image:url( michal-kubalczyk-WecngmAT-KY-unsplash.jpg);
  	background-size: cover;
+	background-repeat:none;
 
 }
 
